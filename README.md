@@ -1,6 +1,6 @@
 # ParallelAlgorithms
 
-Project 1: Parallel Image Processing System
+#Project 1: Parallel Image Processing System
 
 This project implements a multi-threaded and multi-process image processing system that applies various transformations to large image datasets. The system consists of:
 
@@ -17,7 +17,7 @@ This project implements a multi-threaded and multi-process image processing syst
 
 This project demonstrates advanced parallel programming techniques in Python, utilizing the multiprocessing and threading modules to optimize performance in batch image processing.
 
-Project 2: Color Histogram Analysis and Classification
+#Project 2: Color Histogram Analysis and Classification
 
 This project focuses on functional programming and parallel data processing techniques to analyze images based on color histograms. The goal is to classify images into different categories by computing and comparing their histograms. The key components include:
 
@@ -34,7 +34,7 @@ This project focuses on functional programming and parallel data processing tech
 
 The project enforces constraints such as avoiding explicit loops, instead requiring the use of functional programming techniques (map, reduce, lambda functions, and iterators). The dataset for classification is sourced from CIFAR-10 and all image processing is done using NumPy for optimized numerical computations.
 
-Project 3: CUDA-Based Parallel Image Processing
+#Project 3: CUDA-Based Parallel Image Processing
 
 This project explores high-performance parallel computing for image processing using CUDA and PyCUDA. The focus is on accelerating three fundamental image transformations:
 
